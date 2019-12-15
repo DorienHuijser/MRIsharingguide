@@ -4,3 +4,4 @@ With the increasing amount of data sharing initiatives, researchers collecting M
 A possible extension of this initiative may include multiple types of data besides MRI data, as well as more details about tackling the GDPR. These are however outside of the scope of the current decision tree.
 
 Link to the google doc: https://docs.google.com/document/d/154ZdLjEpUR4M1FMJ_a5JP_aCkRR7LinEomKuRgusfvM/edit?usp=sharing
+Link to the Google Drive folder: https://drive.google.com/drive/folders/1UKdYld2YSUsaC4pDUQTZPO1AX4Cvv_mt?usp=sharing
