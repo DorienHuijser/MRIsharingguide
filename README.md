@@ -2,6 +2,8 @@
 
 With the increasing amount of data sharing initiatives, researchers collecting MRI data cannot and do not want to stay behind. However, many researchers do not know where to start, what they can share and where, where they can find information or support, etc. Therefore, at Leiden University (the Netherlands), we started developing a decision tree on sharing MRI data for researchers who are new to open science and data sharing and do not know where to start when they want to share their MRI data. Among our group are both researchers and support people, but we would like to have more input on possible solutions and questions to be asked in the decision tree.
 
+**You can find the decision tree [here](https://zenodo.org/record/3822290#.Xuy-Lmgza73)**
+
 ## Possible extensions in the future
 - include multiple types of data besides MRI data
 - include more details about tackling the GDPR
