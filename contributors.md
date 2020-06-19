@@ -1,6 +1,5 @@
 # Contributors
 
-## Contributors so far (in alphabetical order):
 - Anna van 't Veer
 <a href="https://twitter.com/annaveer"><img src="img/twitter.png" width=20px /><a/>
 - Dorien Huijser
