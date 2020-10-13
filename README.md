@@ -1,4 +1,4 @@
-# MRI data sharing guide for researchers in the Netherlands
+# MRI data sharing guide for Dutch researchers
 
 With the increasing amount of data sharing initiatives, researchers collecting MRI data cannot and do not want to stay behind. However, many researchers do not know where to start, what they can share and where, where they can find information or support, etc. Therefore, at Leiden University (the Netherlands), we developed a MRI data sharing guide for researchers who are new to open science and data sharing and do not know where to start when they want to share their MRI data.
 
