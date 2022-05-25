@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Brain MRI data sharing guide - interactive version
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dorien
+    family-names: Huijser
+    orcid: 'https://orcid.org/0000-0003-3282-8083'
+  - given-names: Jessica
+    family-names: Hrudey
+    orcid: 'https://orcid.org/0000-0002-8882-1991'
+  - given-names: Sander
+    family-names: Bosch
+    orcid: 'https://orcid.org/0000-0001-6845-0911'
+  - given-names: Michelle
+    family-names: Achterberg
+    orcid: 'https://orcid.org/0000-0001-5874-6495'
+  - given-names: Lara
+    family-names: Wierenga
+    orcid: 'https://orcid.org/0000-0001-9362-563X'
+  - given-names: Anna
+    family-names: van 't Veer
+    orcid: 'https://orcid.org/0000-0002-2733-1841'
+  - given-names: Eduard
+    family-names: Klapwijk
+    orcid: 'https://orcid.org/0000-0002-8936-0365'
+  - given-names: Raymond
+    family-names: van Erkel
+  - given-names: Kristina
+    family-names: Hettne
+    orcid: 'https://orcid.org/0000-0002-4182-7560'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.3822289
+    description: Brain MRI Data Sharing Guide - Static version
+url: 'https://www.dorienhuijser.com/MRIsharingguide/'
+repository: 'https://github.com/DorienHuijser/MRIsharingguide'
+abstract: >-
+  We present a guide on sharing Magnetic Resonance
+  Imaging (MRI) data of the brain, with a focus on
+  The Netherlands. The guide is meant as a help for
+  researchers to know what they can share and where,
+  and where they can find information or support. 
+keywords:
+  - magnetic resonance imaging
+  - data sharing
+  - open science
+  - research data management
+license: GPL-3.0
+date-released: '2021-05-06'
